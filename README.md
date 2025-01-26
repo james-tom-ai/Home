@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 📫 How to reach me: [Email](mailto:james.tom.ai@example.com)
 - ⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time.
 
+Resume - https://github.com/james-tom-ai/Home/blob/main/Resume.pdf
 ## My Skills
 
 ### Programming Languages
